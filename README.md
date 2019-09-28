@@ -10,10 +10,15 @@ Description:
 Functions:
 ---------
   1.Add Users
+  
   2.Add facilties.
+  
   3.Maintenance staff
+  
   4.Facilties choosen by the residents.
+  
   5.Visitors check in and check out.
+  
   6.Update the salary of the staff.
   
 Tools used:
@@ -23,6 +28,6 @@ Tools used:
   
 Jar Files Required:
 ------------------
-1.jcalendar-1.4.jar
-2.rs2xml.jar
+1.jcalendar-1.4.jar :for calendar
+2.rs2xml.jar : JTable manipulation
 
