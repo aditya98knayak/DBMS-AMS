@@ -24,10 +24,13 @@ Functions:
 Tools used:
 ----------
   1.NetBEans - For front end development using java swings.
+  
   2.Oracle XE - for backend services.
+  
   
 Jar Files Required:
 ------------------
 1.jcalendar-1.4.jar :for calendar
+
 2.rs2xml.jar : JTable manipulation
 
