@@ -1,6 +1,6 @@
 # DBMS-AMS
 *****************************
-APARTMENT MANAGEMENT SYSTEM
+## APARTMENT MANAGEMENT SYSTEM
 *****************************
 
 Description:
